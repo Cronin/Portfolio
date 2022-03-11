@@ -1,5 +1,7 @@
 ## Hi! I'm Claudio Cronin
 
+![image](https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png)
+
 I'm a Google Ads consultant and my biggest goal is to work with data and I'm **switching my career** in to it.
 
 I've been always fascinated about programming, during the quarantine I created a **YouTube bot** that made and is making millions of views on YouTube  downloading, editing and ulploading celebrities Instagram Stories on YouTube.
