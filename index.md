@@ -29,6 +29,11 @@ The main topics were:
 
 # [Life Expectancy GDP](https://github.com/Cronin/life-expectancy-gdp)
 
+# [Biodiversity](https://github.com/Cronin/biodiversity)
+
+# [Okcupid Date A Scientist](https://github.com/Cronin/okcupid-date-a-scientist)
+
+# [Codecademy Data Science Final Project](https://github.com/Cronin/codecademy-data-science-final-project)
 
 
 
