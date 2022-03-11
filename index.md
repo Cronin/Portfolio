@@ -1,6 +1,6 @@
 ## Hi! I'm Claudio Cronin
 
-![image](https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png)
+<img src="https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png"  width="200"/>
 
 I'm a Google Ads consultant, my biggest goal is to work with data and I'm **switching my career** to it.
 
