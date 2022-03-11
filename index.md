@@ -2,15 +2,15 @@
 
 I'm a Google Ads consultant and my biggest goal is to work with data and I'm switching my career in to it.
 
-I've been always fascinated about programming, during the quarantine I created a funny YouTube bot that made and is making millions of views on YouTube  downloading, editing and ulploading celebrities Instagram Stories on YouTube.
+I've been always fascinated about programming, during the quarantine I created a ##YouTube bot## that made and is making millions of views on YouTube  downloading, editing and ulploading celebrities Instagram Stories on YouTube.
 
 After that I used much of my free time to learn more about programming.
 My favourite book to set the basics of coding was an open source python book,Python Learn, then I made little investement buying a really practical and in depth coding site subscription, [Codecademy](https://www.codecademy.com/learn/paths/data-science) where I started the Web Developer Path and Data Science to choose between the two.
 
-After the first month I decided to focus completely on Data Science.
+After the first month I decided to focus completely on ##Data Science##.
 
 After months of hours spent, I finished the coding course aknowledging my passion to Data Science.
-The main topics were:
+##The main topics were##:
 
 1. Python Fundamentals
 2. Data Acquisition
