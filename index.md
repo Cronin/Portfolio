@@ -25,7 +25,8 @@ The main topics were:
 11. Unsupervised Learning
 12. Foundations of Deep Learning
 
-<a href="<a href="http://example.com/" target="_blank">Codecademy</a>" target="_blank">Hello, world!</a>
+## These are the 5 projects I created during the course
+
 
 
 You can check my project [here](https://cronin.github.io/Portfolio/Merge2Tube) and you can check an example of one of the many YouTube Channels [here](https://www.youtube.com/c/BelenRodriguezInstagramStoriesSMASH/videos?view=0&sort=p&flow=grid)
