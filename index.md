@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png"  width="200"/>
 </p>  
 
-I'm a Google Ads consultant, my biggest goal is to work with data and I'm **switching my career** to it.
+I'm a Google Ads consultant, my biggest goal is to work with data and I'm **switching my career** into it.
 
 I've been always fascinated by programming, during the quarantine I created a **YouTube bot** that made and is making millions of views on YouTube downloading, editing, and uploading celebrities' Instagram Stories on YouTube.
 
