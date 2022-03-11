@@ -27,6 +27,9 @@ The main topics were:
 
 ## These are the 5 projects I created during the course
 
+# [Life Expectancy GDP](https://github.com/Cronin/life-expectancy-gdp)
+
+
 
 
 You can check my project [here](https://cronin.github.io/Portfolio/Merge2Tube) and you can check an example of one of the many YouTube Channels [here](https://www.youtube.com/c/BelenRodriguezInstagramStoriesSMASH/videos?view=0&sort=p&flow=grid)
