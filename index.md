@@ -27,6 +27,8 @@ The main topics were:
 
 ## These are the 5 projects I created during the course
 
+# [U.S. Medical Insurance Costs](https://github.com/Cronin/US-medical-insurance-costs)
+
 # [Life Expectancy GDP](https://github.com/Cronin/life-expectancy-gdp)
 
 # [Biodiversity](https://github.com/Cronin/biodiversity)
