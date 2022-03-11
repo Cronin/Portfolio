@@ -10,6 +10,7 @@ My favourite book to set the basics of coding was an open source python book,Pyt
 After the first month I decided to focus completely on **Data Science**.
 
 After months of hours spent, I finished the coding course aknowledging my passion to Data Science.
+
 **The main topics were**:
 
 1. Python Fundamentals
