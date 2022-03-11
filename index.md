@@ -2,16 +2,16 @@
 
 ![image](https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png)
 
-I'm a Google Ads consultant and my biggest goal is to work with data and I'm **switching my career** in to it.
+I'm a Google Ads consultant and my biggest goal is to work with data I'm **switching my career** to it.
 
-I've been always fascinated about programming, during the quarantine I created a **YouTube bot** that made and is making millions of views on YouTube  downloading, editing and ulploading celebrities Instagram Stories on YouTube.
+I've been always fascinated by programming, during the quarantine I created a **YouTube bot** that made and is making millions of views on YouTube downloading, editing, and uploading celebrities' Instagram Stories on YouTube.
 
-After that I used much of my free time to learn more about programming.
-My favourite book to set the basics of coding was an open source python book,Python Learn, then I made little investement buying a really practical and in depth coding site subscription, [Codecademy](https://www.codecademy.com/learn/paths/data-science) where I started the Web Developer Path and Data Science to choose between the two.
+After that, I used much of my free time to learn more about programming.
+My favorite book to set the basics of coding was an open-source python book, Python Learn, then I made little investment buying a really practical and in-depth coding site subscription, [Codecademy](https://www.codecademy.com/learn/paths/data-science) where I started the Web Developer Path and Data Science to choose between the two.
 
 After the first month I decided to focus completely on **Data Science**.
 
-After months of hours spent, I finished the coding course aknowledging my passion to Data Science.
+After months of hours spent, I finished the coding course acknowledging my passion for Data Science.
 
 **The main topics were**:
 
@@ -37,7 +37,7 @@ For this project, I investigate a medical insurance costs dataset in a .csv file
 <img width = 500 src="https://insights.ibx.com/wp-content/uploads/2016/10/cost-of-health-coverage.jpg" alt="A Closer Look at the Cost of Health Coverage - IBX Insights"/>
 
 # Project Goals:
-- Work locally on your own computer
+- Work locally on my computer
 - Import a dataset into your program
 - Analyze a dataset by building out functions or class methods
 - Use libraries to assist in your analysis
@@ -47,7 +47,7 @@ For this project, I investigate a medical insurance costs dataset in a .csv file
 
 For this project, I analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
-Analyze, prepare, and plot data in order to answer questions in a meaningful way.
+Analyze, prepare, and plot data to answer questions in a meaningful way.
 
 <img width = 500 src="https://elearning.com.ui.edu.ng/pluginfile.php/18494/course/overviewfiles/-%20Image%20credit%20-gettyimagesistockphoto%20Lifecycle%20nutrition.jpg" alt="Summary of Principles of Human Nutrition I"/>
 
