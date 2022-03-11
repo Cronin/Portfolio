@@ -1,3 +1,8 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head> 
+
+
 ## Hi! I'm Claudio Cronin
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58665249/157984918-1b6a4eaa-b5b0-4bcd-af97-fb0eb5346d04.png"  width="200"/>
