@@ -133,9 +133,3 @@ I chose the Kaggle's "[Forest Cover Type Prediction](https://www.kaggle.com/c/fo
 - Unsupervised Machine Learning
 - Deep Learning
 - Big Data
-
-
-
-
-You can check my project [here](https://cronin.github.io/Portfolio/Merge2Tube) and you can check an example of one of the many YouTube Channels [here](https://www.youtube.com/c/BelenRodriguezInstagramStoriesSMASH/videos?view=0&sort=p&flow=grid)
-
