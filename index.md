@@ -13,7 +13,7 @@ I'm a Google Ads consultant, my biggest goal is to work with data and I'm **swit
 I've been always fascinated by programming, during the quarantine I created a **YouTube bot** that made and is making millions of views on YouTube downloading, editing, and uploading celebrities' Instagram Stories on YouTube.
 
 After that, I used much of my free time to learn more about programming.
-My favorite book to set the basics of coding was [Python For Everybody](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126/ref=as_li_ss_tl?ie=UTF8&qid=1468166431&sr=8-1&keywords=python+for+everybody&linkCode=sl1&tag=drchu02-20&linkId=4c19bc9f9d9fef72121cad5e1c7bcb6c) of Dr. Charles Russell Severance,  then I made little investment buying a really practical and in-depth coding site subscription, [Codecademy](https://www.codecademy.com/learn/paths/data-science) where I started the Web Developer Path and Data Science to choose between the two.
+My favorite book to set the basics of coding was [Python For Everybody](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126/ref=as_li_ss_tl?ie=UTF8&qid=1468166431&sr=8-1&keywords=python+for+everybody&linkCode=sl1&tag=drchu02-20&linkId=4c19bc9f9d9fef72121cad5e1c7bcb6c) of Dr. Charles Russell Severance,  then I made a little investment buying a really practical and in-depth coding bootcamp subscription, [Codecademy](https://www.codecademy.com/learn/paths/data-science) where I started the Web Developer Path and Data Science to choose between the two.
 
 After the first month I decided to focus completely on **Data Science**.
 
